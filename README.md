@@ -16,15 +16,15 @@ The Online Shopping For Local Vendor’s project is consists of following module
     • Logout 
 
 
-  2 . Seller Module : In seller Module Forms are
-   • Sing Up ->Sing In-> Dashboard 
-   • Profile 
-   • Add/View  Products
-   • Orders  
-   • Sells Report
-   • View Review
-   • Change password
-   • Logout 
+   2 . Seller Module : In seller Module Forms are
+     • Sing Up ->Sing In-> Dashboard 
+     • Profile 
+     • Add/View  Products
+     • Orders  
+     • Sells Report
+     • View Review
+     • Change password
+     • Logout 
 
 
  3. Customer Module : In Customer module forms are 
