@@ -6,7 +6,7 @@ Developed a web application that connects local vendors with customers for onlin
 The Online Shopping For Local Vendor’s project is consists of following modules and Forms. 
 
 
-1.	Admin Module : In Admin module forms are
+  1.	Admin Module : In Admin module forms are
     •  Login->Dashboard
     • View/Delete Shop Seller
     • View/Delete Customers 
@@ -27,7 +27,7 @@ The Online Shopping For Local Vendor’s project is consists of following module
    • Logout 
 
 
-3. Customer Module : In Customer module forms are 
+ 3. Customer Module : In Customer module forms are 
   • Sign Up –> Log In 
   • Customer Profile 
   •  Product  
