@@ -122,12 +122,12 @@ The **Online Shopping for Local Vendors** is designed to bring small businesses 
 
 ### 📂 Project Structur
 ---
--project-folder
--admin # Admin panel
--seller # Seller dashboard
--customer # Customer interface
--assets # CSS, JS, images
--database # Database scripts
+- project-folder
+- admin # Admin panel
+- seller # Seller dashboard
+- customer # Customer interface
+- assets # CSS, JS, images
+- database # Database scripts
 - config.php # Database config
 - index.php # Entry point
 
