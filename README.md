@@ -94,6 +94,9 @@ The **Online Shopping for Local Vendors** is designed to bring small businesses 
         │  Seller  │ │ Customer │
         └──────────┘ └──────────┘
 
+
+
+
 ---
 
 ## 🛠️ Tech Stack
