@@ -121,7 +121,6 @@ The **Online Shopping for Local Vendors** is designed to bring small businesses 
 ---
 
 ### 📂 Project Structur
----
 - project-folder
 - admin # Admin panel
 - seller # Seller dashboard
@@ -135,7 +134,7 @@ The **Online Shopping for Local Vendors** is designed to bring small businesses 
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/your-username/online-shopping-local-vendors.git
+git clone https://github.com/Ashwini-nandagavi/online-shopping-local-vendors.git
 cd online-shopping-local-vendors
 
         
