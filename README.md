@@ -1,4 +1,4 @@
-# 🛒 Online Shopping Platform for Local Vendors
+# 🛒 Online Shopping for Local Vendors
 
 <p align="center">
   <b>A full-stack e-commerce platform empowering local vendors to sell online and customers to shop بسهولة.</b>
