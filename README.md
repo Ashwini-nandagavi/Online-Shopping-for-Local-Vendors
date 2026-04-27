@@ -79,21 +79,20 @@ The **Online Shopping for Local Vendors** is designed to bring small businesses 
 ---
 
 ## 🏗️ System Architecture
-        ┌────────────┐
+               ┌────────────┐
         │   Admin    │
         └─────┬──────┘
               │
               ▼
   ┌───────────────────────────────┐
   │       Backend Server          │
-  │ (Auth, Products, Orders, API) │
+  │ (Auth, Products, Orders)      │
   └───────────┬───────────┬───────┘
               │           │
               ▼           ▼
         ┌──────────┐ ┌──────────┐
         │  Seller  │ │ Customer │
         └──────────┘ └──────────┘
-
 
 ---
 
