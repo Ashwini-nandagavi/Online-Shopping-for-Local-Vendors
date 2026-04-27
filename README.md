@@ -33,7 +33,7 @@
 
 ## 📖 Overview
 
-The **Online Shopping Platform for Local Vendors** is designed to bring small businesses online and simplify digital commerce.
+The **Online Shopping for Local Vendors** is designed to bring small businesses online and simplify digital commerce.
 
 ### 🎯 Objectives
 - Support local vendors in expanding their reach  
@@ -120,20 +120,18 @@ The **Online Shopping Platform for Local Vendors** is designed to bring small bu
 
 ---
 
-## 📂 Project Structure
-/project-folder
-│── /admin # Admin panel
-│── /seller # Seller dashboard
-│── /customer # Customer interface
-│── /assets # CSS, JS, images
-│── /database # Database scripts
-│── config.php # Database config
-│── index.php # Entry point
-
+### 📂 Project Structur
+---
+-project-folder
+-admin # Admin panel
+-seller # Seller dashboard
+-customer # Customer interface
+-assets # CSS, JS, images
+-database # Database scripts
+- config.php # Database config
+- index.php # Entry point
 
 ---
-
-## ⚙️ Installation
 
 ### 1️⃣ Clone Repository
 ```bash
